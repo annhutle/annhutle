@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=annhutle.annhutle" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=800&color=000000&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+An+Nhut+Le!;Xin+Ch%C3%A0o!+%F0%9F%91%8B+;T%C3%B4i+l%C3%A0+An+Nhut+Le!;Kumusta!+%F0%9F%91%8B;Ako+si+An+Nhut+Le!;" />
@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently study at **University of the philippines**
+🧑‍🏫 I’m currently study at **University of the philippines**
  
- 🌱 I’m currently learning **C, Python, HTML/CSS/Javascript**
+🌱 I’m currently learning **C, Python, HTML/CSS/Javascript**
 
-💬 Feel free to message me on Messenger **[here](https://www.facebook.com/annhat.le.969?mibextid=JRoKGi)**
+💬 Feel free to message me **[here](https://www.facebook.com/annhat.le.969?mibextid=JRoKGi)**
 
  </div>
  
