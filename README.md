@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=800&color=000000&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+An+Nhut+Le!;Xin+Ch%C3%A0o!+%F0%9F%91%8B+;T%C3%B4i+l%C3%A0+An+Nhut+Le!;Kumusta!+%F0%9F%91%8B;Ako+si+An+Nhut+Le!;" />
+    <img src="https://readme-typing-svg.herokuapp.com font=Fira+Code&size=35&duration=4000&center=true&vCenter=true&pause=800&color=000000&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+An+Nhut+Le!;Xin+Ch%C3%A0o!+%F0%9F%91%8B+;T%C3%B4i+l%C3%A0+An+Nhut+Le!;Kumusta!+%F0%9F%91%8B;Ako+si+An+Nhut+Le!;" />
 </h1>
 
 <h3 align="center">A student passionate about becoming a full stack developer from Vietnam 🇻🇳</h3>
