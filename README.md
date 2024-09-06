@@ -59,13 +59,13 @@
 <h2 align="center">🖥️ Projects 🖥️</h2> 
 <br/>
 <div align="center">
-    <a href="https://github.com/annhutle/html-css-js-portfolio-template">
+    <a href="https://github.com/uvipen/QuickDraw/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=annhutle&repo=QuickDraw&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
 </a>    
-<a href="https://github.com/annhutle/html-css-js-portfolio-template">
+<a href="https://github.com/uvipen/ASCII-generator/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=annhutle&repo=ASCII-generator&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=ASCI&theme=merko" />
 </a>
 </div>
 
