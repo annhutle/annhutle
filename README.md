@@ -28,6 +28,8 @@
   <a href="https://portfolio-anle.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annhutle)](https://github.com/annhutle/github-readme-stats)
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
