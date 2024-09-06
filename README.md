@@ -61,12 +61,8 @@
 <div align="center">
     <a href="https://github.com/annhutle/html-css-js-portfolio-template">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=annhutle&repo=html-css-js-portfolio-template&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=annhutle&repo=html-css-js-portfolio-template&theme=transparent" />
 </a>    
-<a href="https://github.com/uvipen/ASCII-generator/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=ASCI&theme=merko" />
-</a>
 </div>
 
 <br/>
