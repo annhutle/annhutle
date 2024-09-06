@@ -59,9 +59,9 @@
 <h2 align="center">🖥️ Projects 🖥️</h2> 
 <br/>
 <div align="center">
-    <a href="https://github.com/uvipen/QuickDraw/">
+    <a href="https://github.com/annhutle/html-css-js-portfolio-template">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=annhutle&repo=QuickDraw&theme=transparent" />
 </a>    
 <a href="https://github.com/uvipen/ASCII-generator/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
