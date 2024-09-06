@@ -10,7 +10,7 @@
 
 <div align="center">
  
-🧑‍🏫 I’m currently study at **University of the philippines**
+🧑‍🏫 I’m currently study at **University of the Philippines**
  
 🌱 I’m currently learning **C, Python, HTML/CSS/Javascript**
 
