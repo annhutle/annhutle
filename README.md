@@ -10,9 +10,8 @@
 
 <div align="center">
  
-🧑‍🏫 I’m currently study at **University of the Philippines**
  
-🌱 I’m currently learning **C, Python, HTML/CSS/Javascript**
+🌱 I’m currently learning **C, Java, HTML/CSS/Javascript**
 
 💬 Feel free to message me **[here](https://www.facebook.com/annhat.le.969?mibextid=JRoKGi)**
 
